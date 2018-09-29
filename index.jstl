@@ -1,0 +1,8 @@
+---
+title: My Template
+layout: layout
+name: Zach
+---
+<h1>This is the template content, ${name}.</h1>
+
+<p><code>collections.all.length ${collections.all.length}</code></p>
