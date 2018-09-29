@@ -1,0 +1,29 @@
+{
+  "name": "eleventy-sample-jstl",
+  "version": "1.0.0",
+  "description": "An Eleventy sample project using JSTL files. ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/11ty/eleventy-sample-jstl.git"
+  },
+  "keywords": [
+    "eleventy",
+    "eleventy-sample"
+  ],
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/11ty/eleventy-sample-jstl/issues"
+  },
+  "homepage": "https://github.com/11ty/eleventy-sample-jstl#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.5.4"
+  }
+}
